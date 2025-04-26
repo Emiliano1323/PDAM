@@ -40,7 +40,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+git clone https://github.com/Emiliano1323/PDAM.git
 Abre en Android Studio y configura las dependencias.
 
 Ejecuta en dispositivo o emulador.
